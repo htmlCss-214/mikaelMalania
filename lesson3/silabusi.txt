@@ -1,0 +1,2 @@
+• Html მნიშვნელობის მქონე ტეგები ვებ გვერდის სტრუქტურისთვის
+• Display property - block/inline/inline-block/none

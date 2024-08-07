@@ -1,0 +1,30 @@
+h3 {
+    text-align: center;
+    color: rgb(4, 112, 112);
+}
+
+#myJurney {
+    font-size: 24px;   
+    text-align: center;
+}
+
+#htmlIntro {
+    background-color: yellow;
+    text-align: center;
+    color: rgb(55, 114, 114);
+    border: 5px dashed red ;
+}
+
+#cssIntro {
+    background-color: brown;
+    text-align: center;
+    color: azure;
+    border: solid;
+}
+
+#learnMore {
+    text-align: center;
+    background-color: #d8bfd8;
+    text-decoration: none;
+    color: #4d5758;
+}
