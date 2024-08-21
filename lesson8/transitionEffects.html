@@ -1,0 +1,78 @@
+<html>
+    <head>
+        <style>
+            .linear {
+                width: 100px;
+                height: 30px;
+                background-color: red;
+            }
+
+            .linear:hover {
+                width: 300px;
+                transition: width 2s linear;
+            }
+            
+            .ease {
+                width: 100px;
+                height: 30px;
+                background-color: blue;
+            }
+            
+            .ease:hover {
+                width: 300px;
+                transition: width 2s ease;
+            }
+
+            .easeIn {
+                width: 100px;
+                height: 30px;
+                background-color: green;
+            }
+            
+            .easeIn:hover {
+                width: 300px;
+                transition: width 2s ease-in;
+            }
+
+            .easeOut {
+                width: 100px;
+                height: 30px;
+                background-color: yellow;
+            }
+            
+            .easeOut:hover {
+                width: 300px;
+                transition: width 2s ease-out;
+            }
+
+            .easeInOut {
+                width: 100px;
+                height: 30px;
+                background-color: cyan;
+            }
+            
+            .easeInOut:hover {
+                width: 300px;
+                transition: width 2s ease-in-out;
+            }
+        </style>
+
+    </head>
+
+    <body>
+        <div class="linear">
+        </div>
+
+        <div class="ease">
+        </div>
+
+        <div class="easeIn">
+        </div>
+
+        <div class="easeOut">
+        </div>
+
+        <div class="easeInOut">
+        </div>
+    </body>
+</html>
