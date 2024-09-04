@@ -1,0 +1,6 @@
+• meta ტეგები ბრაუზერებისთვის
+• სოციალური ქსელებისთვის ინფორმაციის ოპტიმიზაცია
+• html form elements
+• საფინალო პროექტის მიმოხილვა 
+http://127.0.0.1:5500/index.html?name=asdasdasd&email=asdasdasda%40gmail.com&phone=123124124124
+http://127.0.0.1:5500/index.html?fullName=asdasd&email=asdasdasda%40gmail.com&phone=123124124
